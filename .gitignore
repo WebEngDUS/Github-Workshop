@@ -1,0 +1,8 @@
+# Mac finder artifacts
+.DS_Store
+
+# RubyMine project files
+.idea
+
+.ruby-version
+.ruby-gemset
